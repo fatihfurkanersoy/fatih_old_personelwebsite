@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/fatihfurkanersoy/static/css/main.e16032d7.chunk.css",
+    "main.js": "/fatihfurkanersoy/static/js/main.5db19782.chunk.js",
+    "main.js.map": "/fatihfurkanersoy/static/js/main.5db19782.chunk.js.map",
+    "runtime-main.js": "/fatihfurkanersoy/static/js/runtime-main.93645b08.js",
+    "runtime-main.js.map": "/fatihfurkanersoy/static/js/runtime-main.93645b08.js.map",
+    "static/js/2.6d09358a.chunk.js": "/fatihfurkanersoy/static/js/2.6d09358a.chunk.js",
+    "static/js/2.6d09358a.chunk.js.map": "/fatihfurkanersoy/static/js/2.6d09358a.chunk.js.map",
+    "index.html": "/fatihfurkanersoy/index.html",
+    "precache-manifest.b62b5cbfa7d2a3301ffc1cd2829fb8c3.js": "/fatihfurkanersoy/precache-manifest.b62b5cbfa7d2a3301ffc1cd2829fb8c3.js",
+    "service-worker.js": "/fatihfurkanersoy/service-worker.js",
+    "static/css/main.e16032d7.chunk.css.map": "/fatihfurkanersoy/static/css/main.e16032d7.chunk.css.map",
+    "static/js/2.6d09358a.chunk.js.LICENSE.txt": "/fatihfurkanersoy/static/js/2.6d09358a.chunk.js.LICENSE.txt",
+    "static/media/benoda.png": "/fatihfurkanersoy/static/media/benoda.2d46bd7e.png",
+    "static/media/elektrik.png": "/fatihfurkanersoy/static/media/elektrik.bf3142da.png",
+    "static/media/fatih_2.png": "/fatihfurkanersoy/static/media/fatih_2.fe062533.png",
+    "static/media/kutarson.jpg": "/fatihfurkanersoy/static/media/kutarson.1484f979.jpg",
+    "static/media/resume.pdf": "/fatihfurkanersoy/static/media/resume.1c09596d.pdf",
+    "static/media/tcdd.png": "/fatihfurkanersoy/static/media/tcdd.b1870f56.png",
+    "static/media/yazigt.png": "/fatihfurkanersoy/static/media/yazigt.c5825254.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93645b08.js",
+    "static/js/2.6d09358a.chunk.js",
+    "static/css/main.e16032d7.chunk.css",
+    "static/js/main.5db19782.chunk.js"
+  ]
+}
