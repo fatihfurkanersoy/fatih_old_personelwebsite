@@ -2,7 +2,7 @@
   <h2 align="center">Hi 👋, I'm Fatih Furkan</h2>
 </p>
 <p align="center">
-    <a href="https://fatihfurkanersoy.github.io">About Me</a>
+    <a href="https://fatihfurkanersoy.github.io/fatihfurkanersoy">About Me</a>
     ·
     <a href="mailto:fatihfurkanersoy2@gmail.com">Email</a>
     ·
