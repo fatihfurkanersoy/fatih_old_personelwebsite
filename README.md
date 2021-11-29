@@ -35,12 +35,12 @@ Here are some ideas to get you started:
 I'm a final year undergraduate student in Electric Electronic Engineering at Konya Technical University.
 I'm Chairman of the Board of the Artificial Intelligence and Image Processing Community, known as [YAZGİT](https://yazgit.com/) at my university and has 250 members.
 ## Career✨
-- Chalmers University of Technology - Undergraduate LoraWAN Researcher (2021 November - Right Now)
+- Chalmers University of Technology - Undergraduate LoraWAN Researcher (2021 November - Present)
 - Kutar Information and Software Technologies - Hardware and Software Engineer 2020 September / 2021 September
     - For detailed information about my projects, please click on [my website](https://fatihfurkan.com/).
 - TCDD - Intern 2014 / 2018
 ## Education✨
-- Konya Tecnical University - Electric Electronic Engineering 2018 - present
+- Konya Tecnical University - Electric Electronic Engineering 2018 - Present
     - [YAZGİT](https://yazgit.com/) / CEO
     - Team Lead at YAZGİT BARBAROV (Underwater Vehicle)
 - Elvankent Bilgi Anatolian High School - Math - Science 2014 - 2018
