@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fatihfurkanersoy/static/css/main.e16032d7.chunk.css",
-    "main.js": "/fatihfurkanersoy/static/js/main.5db19782.chunk.js",
-    "main.js.map": "/fatihfurkanersoy/static/js/main.5db19782.chunk.js.map",
+    "main.js": "/fatihfurkanersoy/static/js/main.ad69c331.chunk.js",
+    "main.js.map": "/fatihfurkanersoy/static/js/main.ad69c331.chunk.js.map",
     "runtime-main.js": "/fatihfurkanersoy/static/js/runtime-main.93645b08.js",
     "runtime-main.js.map": "/fatihfurkanersoy/static/js/runtime-main.93645b08.js.map",
     "static/js/2.6d09358a.chunk.js": "/fatihfurkanersoy/static/js/2.6d09358a.chunk.js",
     "static/js/2.6d09358a.chunk.js.map": "/fatihfurkanersoy/static/js/2.6d09358a.chunk.js.map",
     "index.html": "/fatihfurkanersoy/index.html",
-    "precache-manifest.b62b5cbfa7d2a3301ffc1cd2829fb8c3.js": "/fatihfurkanersoy/precache-manifest.b62b5cbfa7d2a3301ffc1cd2829fb8c3.js",
+    "precache-manifest.e54dae88701efffd190bdf3d3d9f50ef.js": "/fatihfurkanersoy/precache-manifest.e54dae88701efffd190bdf3d3d9f50ef.js",
     "service-worker.js": "/fatihfurkanersoy/service-worker.js",
     "static/css/main.e16032d7.chunk.css.map": "/fatihfurkanersoy/static/css/main.e16032d7.chunk.css.map",
     "static/js/2.6d09358a.chunk.js.LICENSE.txt": "/fatihfurkanersoy/static/js/2.6d09358a.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.93645b08.js",
     "static/js/2.6d09358a.chunk.js",
     "static/css/main.e16032d7.chunk.css",
-    "static/js/main.5db19782.chunk.js"
+    "static/js/main.ad69c331.chunk.js"
   ]
 }
