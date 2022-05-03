@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.7190c8e8.chunk.css",
-    "main.js": "/static/js/main.6928fa53.chunk.js",
-    "main.js.map": "/static/js/main.6928fa53.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b5ce5604.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b5ce5604.js.map",
-    "static/js/2.75452279.chunk.js": "/static/js/2.75452279.chunk.js",
-    "static/js/2.75452279.chunk.js.map": "/static/js/2.75452279.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5b4845028b7c94e82cd7de9694283195.js": "/precache-manifest.5b4845028b7c94e82cd7de9694283195.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7190c8e8.chunk.css.map": "/static/css/main.7190c8e8.chunk.css.map",
-    "static/js/2.75452279.chunk.js.LICENSE.txt": "/static/js/2.75452279.chunk.js.LICENSE.txt",
-    "static/media/benoda.png": "/static/media/benoda.2d46bd7e.png",
-    "static/media/elektrik.png": "/static/media/elektrik.bf3142da.png",
-    "static/media/fatih_2.png": "/static/media/fatih_2.fe062533.png",
-    "static/media/kutarson.jpg": "/static/media/kutarson.1484f979.jpg",
-    "static/media/resume.pdf": "/static/media/resume.1c09596d.pdf",
-    "static/media/tcdd.png": "/static/media/tcdd.b1870f56.png",
-    "static/media/yazigt.png": "/static/media/yazigt.c5825254.png"
+    "main.css": "/fatih_old_personelwebsite/static/css/main.7190c8e8.chunk.css",
+    "main.js": "/fatih_old_personelwebsite/static/js/main.9dc9da11.chunk.js",
+    "main.js.map": "/fatih_old_personelwebsite/static/js/main.9dc9da11.chunk.js.map",
+    "runtime-main.js": "/fatih_old_personelwebsite/static/js/runtime-main.b78c8fa4.js",
+    "runtime-main.js.map": "/fatih_old_personelwebsite/static/js/runtime-main.b78c8fa4.js.map",
+    "static/js/2.75452279.chunk.js": "/fatih_old_personelwebsite/static/js/2.75452279.chunk.js",
+    "static/js/2.75452279.chunk.js.map": "/fatih_old_personelwebsite/static/js/2.75452279.chunk.js.map",
+    "index.html": "/fatih_old_personelwebsite/index.html",
+    "precache-manifest.ed5f6518c389a1a3e1e321c60ba0f0dd.js": "/fatih_old_personelwebsite/precache-manifest.ed5f6518c389a1a3e1e321c60ba0f0dd.js",
+    "service-worker.js": "/fatih_old_personelwebsite/service-worker.js",
+    "static/css/main.7190c8e8.chunk.css.map": "/fatih_old_personelwebsite/static/css/main.7190c8e8.chunk.css.map",
+    "static/js/2.75452279.chunk.js.LICENSE.txt": "/fatih_old_personelwebsite/static/js/2.75452279.chunk.js.LICENSE.txt",
+    "static/media/benoda.png": "/fatih_old_personelwebsite/static/media/benoda.2d46bd7e.png",
+    "static/media/elektrik.png": "/fatih_old_personelwebsite/static/media/elektrik.bf3142da.png",
+    "static/media/fatih_2.png": "/fatih_old_personelwebsite/static/media/fatih_2.fe062533.png",
+    "static/media/kutarson.jpg": "/fatih_old_personelwebsite/static/media/kutarson.1484f979.jpg",
+    "static/media/resume.pdf": "/fatih_old_personelwebsite/static/media/resume.1c09596d.pdf",
+    "static/media/tcdd.png": "/fatih_old_personelwebsite/static/media/tcdd.b1870f56.png",
+    "static/media/yazigt.png": "/fatih_old_personelwebsite/static/media/yazigt.c5825254.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5ce5604.js",
+    "static/js/runtime-main.b78c8fa4.js",
     "static/js/2.75452279.chunk.js",
     "static/css/main.7190c8e8.chunk.css",
-    "static/js/main.6928fa53.chunk.js"
+    "static/js/main.9dc9da11.chunk.js"
   ]
 }
